@@ -7,9 +7,9 @@
 
 #Sistemas embarcados
 
-* Microprocessadores de propósito geral
-* Microcontroladores
-* FPGA
-* DSP (Digital Signal Processor)
+ Microprocessadores de propósito geral
+ Microcontroladores
+ FPGA
+ DSP (Digital Signal Processor)
 
 #HSLIDE
