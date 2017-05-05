@@ -11,5 +11,3 @@
 - Microcontroladores
 - FPGA
 - DSP (Digital Signal Processor)
-
-#HSLIDE
