@@ -5,7 +5,7 @@
 
 #HSLIDE
 
-##Sistemas embarcados
+Sistemas embarcados
 
 - Microprocessadores de propósito geral
 - Microcontroladores
