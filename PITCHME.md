@@ -4,9 +4,9 @@
 ##2017.1
 
 #HSLIDE
-#Sistemas embarcados
+##Sistemas embarcados
 
--Microprocessadores de propÃ³sito geral
--Microcontroladores
--FPGA
--DSP (Digital Signal Processor)
+- Microprocessadores de propósito geral
+- Microcontroladores
+- FPGA
+- DSP (Digital Signal Processor)
