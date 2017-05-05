@@ -3,11 +3,11 @@
 
 ##2017.1
 
-___
+_ _ _
 
 #Sistemas embarcados
 
-* Microprocessadores de propÃ³sito geral
+* Microprocessadores de propósito geral
 * Microcontroladores
 * FPGA
 * DSP (Digital Signal Processor)
