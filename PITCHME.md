@@ -12,6 +12,10 @@
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
 - Views: Render Data via React
+- Microprocessadores de propósito geral
+- Microcontroladores
+- FPGA
+- DSP (Digital Signal Processor)
 
 #HSLIDE
 
@@ -26,7 +30,7 @@
 
 #HSLIDE
 
-## Sistemas embarcados
+
 
 333333
 
