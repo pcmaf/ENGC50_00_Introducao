@@ -1,14 +1,13 @@
-# Flux 
-
 # ENGC50
 
 ## Sistemas Microprocessados
 
-Meu teste
+## 2017.1
+
 
 #HSLIDE
 
-### Flux Design
+### Sistemas embarcados
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
