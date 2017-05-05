@@ -8,13 +8,6 @@
 
 ## Sistemas embarcados
 
-### Microprocessadores de propósito geral
-
-### Microcontroladores
-
-### FPGA
-
-### DSP (Digital Signal Processor)
-
+333333
 #HSLIDE
 
