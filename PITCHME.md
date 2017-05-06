@@ -150,7 +150,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/10000000000003C50000020F8D629461.png"/>
+<img src="images/10000000000003C50000020F8D629461.png" height="400"/>
 
 #HSLIDE
 
@@ -167,7 +167,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/10000000000002B50000016F9EF54892.png" height="500"/>
+<img src="images/10000000000002B50000016F9EF54892.png" height="400"/>
 
 #HSLIDE
 
@@ -175,7 +175,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/10000000000002F70000018789633286.png" height="500"/>
+<img src="images/10000000000002F70000018789633286.png" height="400"/>
 
 #HSLIDE
 
@@ -183,7 +183,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/1000000000000262000001AFF8F1EC49.png" height="500"/>
+<img src="images/1000000000000262000001AFF8F1EC49.png" height="400"/>
 
 #HSLIDE
 
@@ -191,7 +191,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/100000000000021A000001D703C2BC66.png" height="500"/>
+<img src="images/100000000000021A000001D703C2BC66.png" height="400"/>
 
 #HSLIDE
 
@@ -199,7 +199,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/100000000000033E0000016DA47C0870.png" height="500"/>
+<img src="images/100000000000033E0000016DA47C0870.png" height="400"/>
 
 #HSLIDE
 
@@ -207,7 +207,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/10000000000003A100000261D5A1DDB9.png" height="500"/>
+<img src="images/10000000000003A100000261D5A1DDB9.png" height="400"/>
 
 #HSLIDE
 
@@ -285,7 +285,7 @@
 
 - Exemplos
 
-<img src="images/10000000000001F4000001C957E0959E.png" height="500"/>
+<img src="images/10000000000001F4000001C957E0959E.png" height="400"/>
 
 #HSLIDE
 
@@ -325,7 +325,7 @@
 
 - Exemplos
 
-<img src="images/100000000000027D000001EABBDD0A6D.png" />
+<img src="images/100000000000027D000001EABBDD0A6D.png" height="400" />
 
 #HSLIDE
 
