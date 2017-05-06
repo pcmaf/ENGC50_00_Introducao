@@ -238,7 +238,7 @@
 - Interface serial - USART
 	- Recepção
 
-<img src="images/1000000000000393000001D824D78820.png" />
+<img src="images/1000000000000393000001D824D78820.png" height="400"/>
 
 #HSLIDE
 
@@ -246,7 +246,7 @@
 
 - Interface serial - SPI (Serial Peripheral Interface)
 
-<img src="images/100002010000016B00000120A93D5D23.png"/>
+<img src="images/100002010000016B00000120A93D5D23.png" height="400"/>
 	
 #HSLIDE
 
@@ -254,7 +254,7 @@
 
 - PWM (Pulse Width Modulation)
 
-<img src="images/1000020000000146000001163214951B.png" />
+<img src="images/1000020000000146000001163214951B.png" height="400" />
 	
 #HSLIDE
 
@@ -294,7 +294,7 @@
 
 - Exemplos
 
-<img src="images/10000000000002FB00000231D4C07D80.png" />
+<img src="images/10000000000002FB00000231D4C07D80.png" height="400" />
 
 #HSLIDE
 
