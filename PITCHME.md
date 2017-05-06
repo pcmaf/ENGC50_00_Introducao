@@ -136,6 +136,7 @@
 
 #### Microcontroladores
 
+<font size="6">
 - Whatchdog timer
 - Reset input
 - Brown-out detector
@@ -143,6 +144,7 @@
 - Power-on Reset (POR)
 - Current sink/source capability
 - Analog comparators
+</font>
 
 #HSLIDE
 
