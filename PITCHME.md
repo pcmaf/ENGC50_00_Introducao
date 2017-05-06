@@ -70,7 +70,23 @@
 
 ![](images/100000000000018200000152D70C8897.png) 
 
+#HSLIDE
 
+#### DSP (Digital Signal Processor)
+
+- Hardware especializado para execução eficiente de operações matemáticas comuns  (adição, multiplicação) e transferência de memória 
+- Alta velocidade de operação, possibilitando a amostragem e manipulação de grandes quantidades de dados 
+- Componentes arquiteturais específicos com o objetivo de aumentar a eficiência do processamento de sinais
+- Conjunto de instruções definido
+- Possui alto grau de paralelismo
+
+#HSLIDE
+
+#### DSP (Digital Signal Processor)
+
+![](images/100000000000050A000001200176FACA.png) 
+
+#HSLIDE
 
 
 
