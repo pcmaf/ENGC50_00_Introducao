@@ -9,9 +9,7 @@
 
 ### Sistemas embarcados
 
-r
-
-- Microprocessadores de propósito geral
+<!--- Microprocessadores de propósito geral-->
 - Microcontroladores
 - FPGA
 - DSP (Digital Signal Processor)
