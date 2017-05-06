@@ -111,7 +111,9 @@
 
 #### Arquiteturas de memória
 
-![](images/10000000000002660000024F7DFDFA24.png) 
+<!--![](images/10000000000002660000024F7DFDFA24.png) -->
+<img src="images/10000000000002660000024F7DFDFA24.png" alt="PIC" height="500"/>
+
 
 #HSLIDE
 
