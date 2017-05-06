@@ -246,8 +246,15 @@
 
 - Interface serial - SPI (Serial Peripheral Interface)
 
-<img src="images/100002010000016B00000120A93D5D23.png" height="400"/>
-	
+<img src="images/100000000000032B000001C582A85739.png" height="400"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- Interface serial - SPI (Serial Peripheral Interface)
+
+<img src="images/100002010000016B00000120A93D5D23.png" height="400"/>	
 #HSLIDE
 
 #### Microcontroladores
