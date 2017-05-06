@@ -7,7 +7,7 @@
 
 #HSLIDE
 
-#### Sistemas embarcados
+### Sistemas embarcados
 
 - Microprocessadores de propósito geral
 - Microcontroladores
@@ -27,7 +27,7 @@
 
 #HSLIDE
 
-#### Microprocessadores de propósito geral
+### Microprocessadores de propósito geral
 
 <!--![](images/microprocessor.png)-->
 <img src="images/microprocessor.png" alt="uP" width="784" height="417"/>
@@ -35,7 +35,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Um microcontrolador pode ser definido como um sistema computacional totalmente contido em um circuito integrado
 - Conjunto de instruções e arquitetura definidas
@@ -46,20 +46,20 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 ![](images/100000000000023B000001BDB26F66ED.png) 
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 <!--![](images/10000201000003A400000618DE1DA1BD.png  =600x) -->
 <img src="images/10000201000003A400000618DE1DA1BD.png" alt="PIC" height="500"/>
 
 #HSLIDE
 
-#### FPGA – Field Programmable Gate Array
+### FPGA – Field Programmable Gate Array
 
 - Um FPGA é um dispositivo digital contendo blocos lógicos e conexões programáveis
 - Não possui arquitetura definida
@@ -69,14 +69,14 @@
 
 #HSLIDE
 
-#### FPGA – Field Programmable Gate Array
+### FPGA – Field Programmable Gate Array
 
 <!--![](images/100000000000018200000152D70C8897.png) -->
 <img src="images/100000000000018200000152D70C8897.png" height="500"/>
 
 #HSLIDE
 
-#### DSP (Digital Signal Processor)
+### DSP (Digital Signal Processor)
 
 - Hardware especializado para execução eficiente de operações matemáticas comuns  (adição, multiplicação) e transferência de memória 
 - Alta velocidade de operação, possibilitando a amostragem e manipulação de grandes quantidades de dados 
@@ -86,38 +86,38 @@
 
 #HSLIDE
 
-#### DSP (Digital Signal Processor)
+### DSP (Digital Signal Processor)
 
 ![](images/100000000000050A000001200176FACA.png) 
 
 #HSLIDE
 
-#### DSP (Digital Signal Processor)
+### DSP (Digital Signal Processor)
 
 ![](images/10000000000001F5000001F245040A69.png) 
 
 #HSLIDE
 
-#### DSP (Digital Signal Processor)
+### DSP (Digital Signal Processor)
 
 ![](images/100000000000026D000001EC3E8D15BC.png) 
 
 #HSLIDE
 
-#### Arquiteturas de memória
+### Arquiteturas de memória
 
 ![](images/100000000000034D000001840473CF00.png) 
 
 #HSLIDE
 
-#### Arquiteturas de memória
+### Arquiteturas de memória
 
 <!--![](images/10000000000002660000024F7DFDFA24.png) -->
 <img src="images/10000000000002660000024F7DFDFA24.png" alt="PIC" height="500"/>
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 <!--![](images/10000000000003780000018BC496FEFE.png) -->
 <img src="images/10000000000003780000018BC496FEFE.png" alt="PIC" height="300"/>
@@ -126,7 +126,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Timers
 
@@ -146,7 +146,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -154,7 +154,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 	- Bloco responsável por converter o sinal analógico em quantidades digitais a serem transferidas para o microcontrolador
@@ -163,7 +163,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -171,7 +171,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -179,7 +179,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -187,7 +187,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -195,7 +195,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -203,7 +203,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - ADC (Analog to Digital Converter)
 
@@ -211,7 +211,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Real Time Clock
 - USB interface
@@ -224,7 +224,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Interface serial - USART
 	- Transmissão
@@ -233,7 +233,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Interface serial - USART
 	- Recepção
@@ -242,7 +242,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Interface serial - SPI (Serial Peripheral Interface)
 
@@ -250,14 +250,14 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Interface serial - SPI (Serial Peripheral Interface)
 
 <img src="images/100002010000016B00000120A93D5D23.png" height="400"/>	
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - PWM (Pulse Width Modulation)
 
@@ -265,7 +265,7 @@
 	
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - PWM (Pulse Width Modulation)
 
@@ -273,7 +273,7 @@
 	
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - PWM (Pulse Width Modulation)
 
@@ -281,7 +281,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -289,7 +289,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -297,7 +297,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -305,7 +305,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -313,7 +313,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -321,7 +321,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
@@ -329,7 +329,7 @@
 
 #HSLIDE
 
-#### Microcontroladores
+### Microcontroladores
 
 - Exemplos
 
