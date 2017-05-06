@@ -44,6 +44,33 @@
 
 #HSLIDE
 
+#### Microcontroladores
+
+![](images/100000000000023B000001BDB26F66ED.png) 
+
+#HSLIDE
+
+#### Microcontroladores
+
+![](images/10000201000003A400000618DE1DA1BD.png) 
+
+#HSLIDE
+
+#### FPGA – Field Programmable Gate Array
+
+- Um FPGA é um dispositivo digital contendo blocos lógicos e conexões programáveis
+- Não possui arquitetura definida
+- Geralmente não possuem facilidades de I/O
+- Usada em aplicações computacionais que demandam processamento paralelo reconfigurável
+- Possui recursos de memória interna
+
+#HSLIDE
+
+#### FPGA – Field Programmable Gate Array
+
+![](images/100000000000018200000152D70C8897.png) 
+
+
 
 
 
