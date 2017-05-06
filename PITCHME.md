@@ -114,7 +114,6 @@
 <!--![](images/10000000000002660000024F7DFDFA24.png) -->
 <img src="images/10000000000002660000024F7DFDFA24.png" alt="PIC" height="500"/>
 
-
 #HSLIDE
 
 #### Microcontroladores
@@ -122,8 +121,110 @@
 <!--![](images/10000000000003780000018BC496FEFE.png) -->
 <img src="images/10000000000003780000018BC496FEFE.png" alt="PIC" height="300"/>
 
-
 ![](images/100000000000011400000087546A7429.png) 
+
+#HSLIDE
+
+#### Microcontroladores
+
+- Timers
+
+<img src="images/10000000000003960000018CB6BC3E4C.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- Whatchdog timer
+- Reset input
+- Brown-out detector
+- Sleep mode
+- Power-on Reset (POR)
+- Current sink/source capability
+- Analog comparators
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/10000000000003C50000020F8D629461.png"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+	- Bloco responsável por converter o sinal analógico em quantidades digitais a serem transferidas para o microcontrolador
+
+<img src="images/100000000000042A0000011BEAA2DCA6.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/10000000000002B50000016F9EF54892.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/10000000000002F70000018789633286.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/1000000000000262000001AFF8F1EC49.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/100000000000021A000001D703C2BC66.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/100000000000033E0000016DA47C0870.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- ADC (Analog to Digital Converter)
+
+<img src="images/10000000000003A100000261D5A1DDB9.png" height="500"/>
+
+#HSLIDE
+
+#### Microcontroladores
+
+- Real Time Clock
+- USB interface
+- CAN interface
+- Ethernet interface
+- ZigBee interface
+- I2C interface
+- SPI interface
+- RS - 232
+
+
+
+
+
 
 
 
