@@ -149,7 +149,7 @@
 
 - ADC (Analog to Digital Converter)
 
-<img src="images/10000000000003C50000020F8D629461.png"/>
+	<img src="images/10000000000003C50000020F8D629461.png"/>
 
 #HSLIDE
 
@@ -227,7 +227,7 @@
 
 - Interface serial - USART
 	- Transmissão
-	<img src="images/100000000000032700000140B4CFECF6.png"/>
+<img src="images/100000000000032700000140B4CFECF6.png"/>
 
 #HSLIDE
 
@@ -235,84 +235,84 @@
 
 - Interface serial - USART
 	- Recepção
-	<img src="images/1000000000000393000001D824D78820.png" />
+<img src="images/1000000000000393000001D824D78820.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Interface serial - SPI (Serial Peripheral Interface)
-	<img src="images/100002010000016B00000120A93D5D23.png"/>
+<img src="images/100002010000016B00000120A93D5D23.png"/>
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/1000020000000146000001163214951B.png" />
+<img src="images/1000020000000146000001163214951B.png" />
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/100000000000039500000142E6B1567A.png" />
+<img src="images/100000000000039500000142E6B1567A.png" />
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/10000000000003910000017C739AC66D.png" />
+<img src="images/10000000000003910000017C739AC66D.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000001F4000001C957E0959E.png" height="500"/>
+<img src="images/10000000000001F4000001C957E0959E.png" height="500"/>
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000001FE000001AD5423B416.png" />
+<img src="images/10000000000001FE000001AD5423B416.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000002FB00000231D4C07D80.png" />
+<img src="images/10000000000002FB00000231D4C07D80.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/100000000000030B000001BC4224BB43.png" />
+<img src="images/100000000000030B000001BC4224BB43.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000002FE0000017740D04C0F.png" />
+<img src="images/10000000000002FE0000017740D04C0F.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/100000000000027D000001EABBDD0A6D.png" />
+<img src="images/100000000000027D000001EABBDD0A6D.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/1000000000000304000001C724AAABEF.png" />	
+<img src="images/1000000000000304000001C724AAABEF.png" />	
 
 	
 	
