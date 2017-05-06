@@ -9,6 +9,8 @@
 
 ### Sistemas embarcados
 
+r
+
 - Microprocessadores de propósito geral
 - Microcontroladores
 - FPGA
