@@ -54,7 +54,7 @@
 
 <!--![](images/10000201000003A400000618DE1DA1BD.png  =600x) -->
 
-<img src="images/10000201000003A400000618DE1DA1BD.png" alt="PIC" width="240" height="400"/>
+<img src="images/10000201000003A400000618DE1DA1BD.png" alt="PIC" width="300" height="500"/>
 
 #HSLIDE
 
