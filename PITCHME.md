@@ -1,7 +1,7 @@
 
 # ENGC50
 
-### Sistemas Microprocessados
+## Sistemas Microprocessados
 
 ### 2017.1
 
@@ -71,7 +71,8 @@
 
 #### FPGA – Field Programmable Gate Array
 
-![](images/100000000000018200000152D70C8897.png) 
+<!--![](images/100000000000018200000152D70C8897.png) -->
+<img src="images/100000000000018200000152D70C8897.png" height="500"/>
 
 #HSLIDE
 
@@ -128,8 +129,7 @@
 #### Microcontroladores
 
 - Timers
-
-<img src="images/10000000000003960000018CB6BC3E4C.png" height="500"/>
+	<img src="images/10000000000003960000018CB6BC3E4C.png"/>
 
 #HSLIDE
 
@@ -158,7 +158,7 @@
 - ADC (Analog to Digital Converter)
 	- Bloco responsável por converter o sinal analógico em quantidades digitais a serem transferidas para o microcontrolador
 
-<img src="images/100000000000042A0000011BEAA2DCA6.png" height="500"/>
+<img src="images/100000000000042A0000011BEAA2DCA6.png"/>
 
 #HSLIDE
 
@@ -227,7 +227,7 @@
 
 - Interface serial - USART
 	- Transmissão
-	<img src="images/100000000000032700000140B4CFECF6.png" height="500"/>
+	<img src="images/100000000000032700000140B4CFECF6.png"/>
 
 #HSLIDE
 
@@ -235,35 +235,35 @@
 
 - Interface serial - USART
 	- Recepção
-	<img src="images/1000000000000393000001D824D78820.png" height="500"/>
+	<img src="images/1000000000000393000001D824D78820.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Interface serial - SPI (Serial Peripheral Interface)
-	<img src="images/100002010000016B00000120A93D5D23.png" height="500"/>
+	<img src="images/100002010000016B00000120A93D5D23.png"/>
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/1000020000000146000001163214951B.png" height="500"/>
+	<img src="images/1000020000000146000001163214951B.png" />
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/100000000000039500000142E6B1567A.png" height="500"/>
+	<img src="images/100000000000039500000142E6B1567A.png" />
 	
 #HSLIDE
 
 #### Microcontroladores
 
 - PWM (Pulse Width Modulation)
-	<img src="images/10000000000003910000017C739AC66D.png" height="500"/>
+	<img src="images/10000000000003910000017C739AC66D.png" />
 
 #HSLIDE
 
@@ -277,42 +277,42 @@
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000001FE000001AD5423B416.png" height="500"/>
+	<img src="images/10000000000001FE000001AD5423B416.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000002FB00000231D4C07D80.png" height="500"/>
+	<img src="images/10000000000002FB00000231D4C07D80.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/100000000000030B000001BC4224BB43.png" height="500"/>
+	<img src="images/100000000000030B000001BC4224BB43.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/10000000000002FE0000017740D04C0F.png" height="500"/>
+	<img src="images/10000000000002FE0000017740D04C0F.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/100000000000027D000001EABBDD0A6D.png" height="500"/>
+	<img src="images/100000000000027D000001EABBDD0A6D.png" />
 
 #HSLIDE
 
 #### Microcontroladores
 
 - Exemplos
-	<img src="images/1000000000000304000001C724AAABEF.png" height="500"/>	
+	<img src="images/1000000000000304000001C724AAABEF.png" />	
 
 	
 	
