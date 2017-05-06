@@ -27,6 +27,25 @@
 
 #HSLIDE
 
+#### Microprocessadores de propósito geral
+
+![](images/microprocessor.png)
+
+#HSLIDE
+
+#### Microcontroladores
+
+- Um microcontrolador pode ser definido como um sistema computacional totalmente contido em um circuito integrado
+- Conjunto de instruções e arquitetura definidas
+- Possuem recursos de I/O
+- Custo e consumo baixos
+- Poder de processamento menor que um microprocessador de propósito geral
+- 8051, PIC, ATmega8
+
+#HSLIDE
+
+
+
 
 
 
