@@ -29,7 +29,9 @@
 
 #### Microprocessadores de propósito geral
 
-![](images/microprocessor.png)
+<!--![](images/microprocessor.png)-->
+<img src="images/microprocessor.png" alt="uP" width="784" height="417"/>
+
 
 #HSLIDE
 
@@ -53,7 +55,6 @@
 #### Microcontroladores
 
 <!--![](images/10000201000003A400000618DE1DA1BD.png  =600x) -->
-
 <img src="images/10000201000003A400000618DE1DA1BD.png" alt="PIC" width="300" height="500"/>
 
 #HSLIDE
