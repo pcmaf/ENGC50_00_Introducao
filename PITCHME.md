@@ -52,7 +52,7 @@
 
 #### Microcontroladores
 
-![](images/10000201000003A400000618DE1DA1BD.png  =100x20) 
+![](images/10000201000003A400000618DE1DA1BD.png  =600x) 
 
 #HSLIDE
 
