@@ -3,7 +3,7 @@
 
 ## Sistemas Microprocessados
 
-### 2018.2
+### 2017.1
 
 #HSLIDE
 
@@ -119,10 +119,10 @@
 
 ### Microcontroladores
 
-![](images/10000000000003780000018BC496FEFE.png) 
+<!--![](images/10000000000003780000018BC496FEFE.png) -->
 <img src="images/10000000000003780000018BC496FEFE.png" alt="PIC" height="300"/>
 
-![](images/100000000000011400000087546A7429.png)
+![](images/100000000000011400000087546A7429.png) 
 
 #HSLIDE
 
